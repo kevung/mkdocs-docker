@@ -6,4 +6,5 @@ RUN pip install --no-cache-dir \
   'mkdocs-git-revision-date-localized-plugin' \
   'mkdocs-bibtex' \
   'mkdocs-img2fig-plugin' \
+  'mkdocs-monorepo-plugin' \
   'mkdocs-mermaid2-plugin'
